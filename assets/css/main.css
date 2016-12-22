@@ -2137,24 +2137,6 @@
 			perspective: 500px;
 		}
 
-			.image.icon:before {
-				-moz-transition: -moz-transform 0.1s ease-in-out, font-size 0.1s ease-in-out;
-				-webkit-transition: -webkit-transform 0.1s ease-in-out, font-size 0.1s ease-in-out;
-				-ms-transition: -ms-transform 0.1s ease-in-out, font-size 0.1s ease-in-out;
-				transition: transform 0.1s ease-in-out, font-size 0.1s ease-in-out;
-				color: #fff;
-				font-size: 6em;
-				height: 1em;
-				left: 50%;
-				line-height: 1em;
-				margin: -0.5em 0 0 -0.5em;
-				position: absolute;
-				text-align: center;
-				top: 50%;
-				width: 1em;
-				z-index: 1;
-			}
-
 			.image.icon:hover:before {
 				-moz-transform: translateZ(1em);
 				-webkit-transform: translateZ(1em);
