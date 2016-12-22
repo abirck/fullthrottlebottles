@@ -2405,7 +2405,7 @@
 			display: block;
 		}
 
-		.feature h3, .feature h4, .feature h5, .feature h6 {
+		.feature h2, .feature h3, .feature h4, .feature h5, .feature h6 {
 			text-align: inherit;
 		}
 
